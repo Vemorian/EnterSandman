@@ -1,0 +1,7 @@
+Developer Notes
+
+- Added temporary utility package during validation testing.
+- Runtime snapshots may create local cache artifacts.
+- Some helper modules were included for internal parsing operations.
+- Package behavior should remain isolated to the local environment.
+- Review dependency alignment before production deployment.
